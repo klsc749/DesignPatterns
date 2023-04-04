@@ -1,6 +1,8 @@
 # DesignPatterns
 使用Java实现23种设计模式。
 
+## 创建篇
+
 [单例模式](/singleton/)
 
 [工厂模式](/factory/)
@@ -9,16 +11,23 @@
 
 [建造者模式](/builder/)
 
-[适配器模式](/adapter/)
+## 结构篇
+
+[外观模式](/facade/)
 
 [组合模式](/composion/)
 
 [装饰器模式](/decorator/)
 
-[外观模式](/facade/)
+[适配器模式](/adapter/)
 
 [享元模式](/flyweight/)
 
 [代理模式](/proxy/)
 
 [桥接模式](/bridge/)
+
+
+## 行为篇
+
+[模板方法模式](/templateMethod/)
