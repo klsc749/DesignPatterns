@@ -31,3 +31,5 @@
 ## 行为篇
 
 [模板方法模式](/templateMethod/)
+
+[迭代器模式](/iterator/)
