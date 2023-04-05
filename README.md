@@ -33,3 +33,5 @@
 [模板方法模式](/templateMethod/)
 
 [迭代器模式](/iterator/)
+
+[责任链模式](/chainOfResponsibility/)
