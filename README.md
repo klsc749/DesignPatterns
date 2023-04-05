@@ -37,3 +37,5 @@
 [责任链模式](/chainOfResponsibility/)
 
 [策略模式](/strategy/)
+
+[状态模式](/state/)
