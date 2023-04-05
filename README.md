@@ -35,3 +35,5 @@
 [迭代器模式](/iterator/)
 
 [责任链模式](/chainOfResponsibility/)
+
+[策略模式](/strategy/)
