@@ -43,3 +43,5 @@
 [备忘录模式](/memento/)
 
 [中介模式](/mediator/)
+
+[命令模式](/command/)
