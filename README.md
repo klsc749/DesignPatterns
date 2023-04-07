@@ -47,3 +47,5 @@
 [命令模式](/command/)
 
 [访问者模式](/visitor/)
+
+[观察者模式](/observer/)
