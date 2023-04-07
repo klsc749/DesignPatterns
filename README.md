@@ -49,3 +49,5 @@
 [访问者模式](/visitor/)
 
 [观察者模式](/observer/)
+
+[解释器模式](/interpreter/)
