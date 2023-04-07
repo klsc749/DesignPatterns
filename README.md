@@ -45,3 +45,5 @@
 [中介模式](/mediator/)
 
 [命令模式](/command/)
+
+[访问者模式](/visitor/)
